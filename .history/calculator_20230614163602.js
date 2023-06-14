@@ -1,0 +1,4 @@
+const Calculator = {
+    add:
+    subtr
+}
